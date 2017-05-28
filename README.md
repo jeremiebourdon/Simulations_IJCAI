@@ -1,5 +1,5 @@
 # Simulations_IJCAI
-Models and scripts presented for IJCAI/BAI special issue
+Appendixes, Models and scripts presented for IJCAI/BAI special issue.
 
 ## Installation and execution instructions
 Stochpy simulation package must be installed first (pip install stochpy)
